@@ -35,7 +35,7 @@
       "publication": "IEEE Magnetics Letters, 10",
       "Title": "Electromagnetic Position Sensing and Force Feedback for a Magnetic Stylus with an Interactive Display."
     }
-  ]
+  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -127,5 +127,5 @@
       "name": "Programming Languages",
       "keywords": [ "C", "C++", "Java", "Javascript", ".Net", "SQL", "Arduino" ]
     }
-  ],
+  ]
 }
