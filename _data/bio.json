@@ -80,28 +80,22 @@
       "position": "Research Assistant",
       "startDate": "2015",
       "endDate": "2016",
-      "summary": "Deveoped sensor array and simulation software for 16-coil Maglev system in Human-Computer Interaction Lab",
-      "highlights": [
-      ]
+      "summary": "Deveoped sensor array and simulation software for 16-coil Maglev system in Human-Computer Interaction Lab"
     },
     {
       "company": "Akabotics",
       "position": "Robotics Consultant",
-      "website":"https://www.akabotics.net/"
+      "website":"https://www.akabotics.net/",
       "startDate": "2015",
       "endDate": "2015",
-      "summary": "Designed and built control system for aquatic canal-dredging robot.",
-      "highlights": [
-      ]
+      "summary": "Designed and built control system for aquatic canal-dredging robot."
     },
     {
       "company": "Benton County, OR",
       "position": "Programmer Analyst",
       "startDate": "2014",
       "endDate": "2014",
-      "summary": "",
-      "highlights": [
-      ]
+      "summary": ""
     },
     {
       "company": "Hewlett Packard",
@@ -119,17 +113,17 @@
     {
       "authors": [ 
           "Berkleman, P.", "Tix, B."
-        ]
-      "date": "2020"
-      "publication": "IEEE Magnetics Letters, 11"
+        ],
+      "date": "2020",
+      "publication": "IEEE Magnetics Letters, 11",
       "Title": "Simultaneous Independent Translational and Rotational Feedback Motion Control System for a Cylindrical Magnet Using Planar Arrays of Magnetic Sensors and Cylindrical Coils."
     },
     {
       "authors": [ 
           "Berkleman, P.", "Tix, B.", "Abdul-Ghani, H."
-        ]
-      "date": "2019"
-      "publication": "IEEE Magnetics Letters, 10"
+        ],
+      "date": "2019",
+      "publication": "IEEE Magnetics Letters, 10",
       "Title": "Electromagnetic Position Sensing and Force Feedback for a Magnetic Stylus with an Interactive Display."
     }
   ]
