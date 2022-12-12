@@ -114,5 +114,23 @@
                      ,"Developed and deployed control software for R&D and manufacturing tools in USA and Ireland."
       ]
     }
+  ],
+  "publications": [
+    {
+      "authors": [ 
+          "Berkleman, P.", "Tix, B."
+        ]
+      "date": "2020"
+      "publication": "IEEE Magnetics Letters, 11"
+      "Title": "Simultaneous Independent Translational and Rotational Feedback Motion Control System for a Cylindrical Magnet Using Planar Arrays of Magnetic Sensors and Cylindrical Coils."
+    },
+    {
+      "authors": [ 
+          "Berkleman, P.", "Tix, B.", "Abdul-Ghani, H."
+        ]
+      "date": "2019"
+      "publication": "IEEE Magnetics Letters, 10"
+      "Title": "Electromagnetic Position Sensing and Force Feedback for a Magnetic Stylus with an Interactive Display."
+    }
   ]
 }
