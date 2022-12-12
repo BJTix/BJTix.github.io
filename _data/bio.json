@@ -18,12 +18,24 @@
     { "name": "Software Engineering" },
     { "name": "Automation" }
   ],
-  "skills": [
+  "publications": [
     {
-      "name": "Programming Languages",
-      "keywords": [ "C", "C++", "Java", "Javascript", ".Net", "SQL", "Arduino" ]
+      "authors": [ 
+          "Berkleman, P.", "Tix, B."
+        ],
+      "date": "2020",
+      "publication": "IEEE Magnetics Letters, 11",
+      "Title": "Simultaneous Independent Translational and Rotational Feedback Motion Control System for a Cylindrical Magnet Using Planar Arrays of Magnetic Sensors and Cylindrical Coils."
+    },
+    {
+      "authors": [ 
+          "Berkleman, P.", "Tix, B.", "Abdul-Ghani, H."
+        ],
+      "date": "2019",
+      "publication": "IEEE Magnetics Letters, 10",
+      "Title": "Electromagnetic Position Sensing and Force Feedback for a Magnetic Stylus with an Interactive Display."
     }
-  ],
+  ]
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -110,22 +122,10 @@
       ]
     }
   ],
-  "publications": [
+  "skills": [
     {
-      "authors": [ 
-          "Berkleman, P.", "Tix, B."
-        ],
-      "date": "2020",
-      "publication": "IEEE Magnetics Letters, 11",
-      "Title": "Simultaneous Independent Translational and Rotational Feedback Motion Control System for a Cylindrical Magnet Using Planar Arrays of Magnetic Sensors and Cylindrical Coils."
-    },
-    {
-      "authors": [ 
-          "Berkleman, P.", "Tix, B.", "Abdul-Ghani, H."
-        ],
-      "date": "2019",
-      "publication": "IEEE Magnetics Letters, 10",
-      "Title": "Electromagnetic Position Sensing and Force Feedback for a Magnetic Stylus with an Interactive Display."
+      "name": "Programming Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", ".Net", "SQL", "Arduino" ]
     }
-  ]
+  ],
 }
