@@ -8,7 +8,7 @@ published: true
 labels:
   - PhD Portfolio
 ---
-page presents other evidence of my professional capacity in computer science as required for the <a href="https://www.ics.hawaii.edu/academics/graduate-programs/phd/current-phd-students/">ICS PhD Portfolio.</a>
+This page presents other evidence of my professional capacity in computer science as required for the <a href="https://www.ics.hawaii.edu/academics/graduate-programs/phd/current-phd-students/">ICS PhD Portfolio.</a>
 
 ## CV & Resume
 For details of my professional activities, please see my 
