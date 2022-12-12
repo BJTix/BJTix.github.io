@@ -2,34 +2,26 @@
   "basics": {
     "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/bjtix.png",
+    "email": "bjavery@hawaii.edu",
+    "summary": "I am working towards a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am completing the program long-distance from Anchorage, Alaska.",
+    "location": { "address": "", "postalCode": "99504", "city": "Anchorage", "countryCode": "USA", "region": "Alaska" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "bjtix", "url": "http://github.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Natural Language Processing" },
+    { "name": "Human Computer Interaction" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Automation" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Programming Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", ".Net", "SQL", "Arduino" ]
     }
   ],
   "education": [
