@@ -5,10 +5,7 @@
     "picture": "https://github.com/bjtix.png",
     "email": "bjavery@hawaii.edu",
     "summary": "I am working towards a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am completing the program long-distance from Anchorage, Alaska.",
-    "location": { "address": "", "postalCode": "99504", "city": "Anchorage", "countryCode": "USA", "region": "Alaska" },
-    "profiles": [
-      { "network": "github", "username": "bjtix", "url": "http://github.com/changeme" }
-    ]
+    "location": { "address": "", "postalCode": "99504", "city": "Anchorage", "countryCode": "USA", "region": "Alaska" }
   },
   "interests": [
     { "name": "Artificial Intelligence" },
