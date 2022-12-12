@@ -12,9 +12,9 @@ page presents evidence of my core competency in computer science as required for
 
 ## Masters Degree
 Graduated 2017 from the University of Hawaii with an MS in Mechanical Engineering.
-Thesis: <a href = "BJ Tix Masters Thesis 2017.pdf">A Magnetic Localization Technique Designed for use with Magnetic Levitation Systems</a>
+</br>Thesis: <a href = "BJ Tix Masters Thesis 2017.pdf">A Magnetic Localization Technique Designed for use with Magnetic Levitation Systems</a>
 
 ## Qualifying Exam
 
-Passed unconditionally in Spring 2017
-Proctored by Dr. Edo Biagioni
+Passed unconditionally in Spring 2017.
+</br>Proctored by Dr. Edo Biagioni.
