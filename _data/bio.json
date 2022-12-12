@@ -27,84 +27,92 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2017",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Mechanical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2015",
+      "endDate": "2017",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Northern Arizona University, Flagstaff, AZ",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2006",
+      "endDate": "2010",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Anchorage School District, Anchorage, AK",
+      "position": "Systems Analyst",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-12-21",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Senior developer leading IT projects and writing custom software to facilitate district operations.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "State reporting","Online Registration multilingual website","Scheduling automation for King Tech Career Center"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "University of Hawaii at Manoa",
+      "position": "Teaching Assistant",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Ran coding lab, created attendance quizzes, graded papers, projects, and exams.",
+      "highlights": [
+        "ICS211","ICS361","ICS461"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Research Assistant",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "Deveoped sensor array and simulation software for 16-coil Maglev system in Human-Computer Interaction Lab",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Akabotics",
+      "position": "Robotics Consultant",
+      "website":"https://www.akabotics.net/"
+      "startDate": "2015",
+      "endDate": "2015",
+      "summary": "Designed and built control system for aquatic canal-dredging robot.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Benton County, OR",
+      "position": "Programmer Analyst",
+      "startDate": "2014",
+      "endDate": "2014",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "company": "Hewlett Packard",
+      "position": "Software Engineer",
+      "startDate": "2010",
+      "endDate": "2013",
       "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "highlights": ["Cut costs by over $1M by increasing efficiency of R&D tools and production line control software."
+                     ,"Patented high-speed printing algorithm for inkjet printers, dramatically increasing the speed of end-of-line testing procedures. (Patent# US8789904B2, filed under previous name)."
+                     ,"Developed and deployed control software for R&D and manufacturing tools in USA and Ireland."
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
