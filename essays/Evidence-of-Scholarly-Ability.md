@@ -8,6 +8,8 @@ published: true
 labels:
   - PhD Portfolio
 ---
+page presents evidence of my scholarly ability in computer science as required for the <a href="https://www.ics.hawaii.edu/academics/graduate-programs/phd/current-phd-students/">ICS PhD Portfolio.</a>
+
 ## Literature Review
 
 <a href="2022 Tix Portfolio Lit Review.pdf">Creating Logical Representations of Meaning from Plain-Text Stories</a>
