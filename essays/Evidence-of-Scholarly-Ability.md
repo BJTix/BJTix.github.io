@@ -12,7 +12,7 @@ This page presents evidence of my scholarly ability in computer science as requi
 
 ## Literature Review
 
-<a href="2022 Tix Portfolio Lit Review.pdf">Creating Logical Representations of Meaning from Plain-Text Stories</a>
+<a href="Tix Portfolio Lit Review Revision 2.pdf">A Case for the Necessity of Analytical Reasoning in Natural Language Processing Applications</a>
 
 ## Plan A Thesis
 
