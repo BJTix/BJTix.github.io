@@ -20,8 +20,6 @@ This page presents evidence of my scholarly ability in computer science as requi
 
 ## Publications
 
-Berkelman, P., & Tix, B. (2020). Simultaneous Independent Translational and Rotational Feedback Motion Control System for a Cylindrical Magnet Using Planar Arrays of Magnetic Sensors and Cylindrical Coils. IEEE Magnetics Letters.
-<a href = "Simultaneous Independent Translational and Rotational.pdf">Link</a>
+<a href = "Simultaneous Independent Translational and Rotational.pdf">Berkelman, P., & Tix, B. (2020). Simultaneous Independent Translational and Rotational Feedback Motion Control System for a Cylindrical Magnet Using Planar Arrays of Magnetic Sensors and Cylindrical Coils. IEEE Magnetics Letters.</a>
 
-Berkelman, P., Tix, B., & Abdul-Ghani, H. (2019). Electromagnetic Position Sensing and Force Feedback for a Magnetic Stylus with an Interactive Display. IEEE Magnetics Letters, 10, 1-5.
-<a href = "Electromagnetic Position Sensing and Force Feedback.pdf">Link</a>
+<a href = "Electromagnetic Position Sensing and Force Feedback.pdf">Berkelman, P., Tix, B., & Abdul-Ghani, H. (2019). Electromagnetic Position Sensing and Force Feedback for a Magnetic Stylus with an Interactive Display. IEEE Magnetics Letters, 10, 1-5.</a>
