@@ -17,4 +17,4 @@ Graduated 2017 from the University of Hawaii with an MS in Mechanical Engineerin
 ## Qualifying Exam
 
 Passed unconditionally in Spring 2017.
-</br>Proctored by Dr. Edo Biagioni.
+Proctored by Dr. Edo Biagioni.
