@@ -12,4 +12,4 @@ This page presents other evidence of my professional capacity in computer scienc
 
 ## CV & Resume
 For details of my professional activities, please see my 
-<a href = "Bernadette Tix CV 2022.pdf">CV</a> or <a href = "..\resume.html">Resume</a>.
+<a href = "Bernadette Tix CV 2023.pdf">CV</a> or <a href = "..\resume.html">Resume</a>.
