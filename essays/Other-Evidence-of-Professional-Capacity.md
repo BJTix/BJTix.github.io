@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+image: ConsentLogo.png
 title: "Other Evidence of Professional Capacity"
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-11
