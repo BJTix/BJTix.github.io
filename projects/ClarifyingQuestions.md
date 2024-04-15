@@ -1,6 +1,7 @@
 ---
-layout: essay
+layout: project
 type: project
+image: ConsentLogo.png
 title: "Clarifying Questions Research"
 date: 2024-04-15
 published: true
@@ -9,7 +10,6 @@ labels:
   - Clarifying Questions
 summary: "A project to examine whether LLMs can produce better output by asking a series of questions before answering the user's initial prompt."
 ---
-
 Modern generative AI operates by accepting a prompt from the user, then using that prompt to generate some form of output, such as a continuous chat, a piece of writing, visual art, or code.  My dissertation research, the Clarifying Questions research project, observes that when humans are engaging in creative processes such as writing, art, or software development, there is usually a back-and-forth conversation between the writer, artist, or developer and their client prior to work beginning on the desired product. This research project seeks to show that by asking insightful clarifying questions prior to beginning work on the requested output, AI can produce superior results that are more in line with the user’s needs, and can simultaneously create a more engaging experience in which users are encouraged to think deeply about what they need and work in tandem with the AI to produce it, rather than offloading all creative power to the AI.
 ## Proposal
 This work will focus specifically in the area of generating short professional documents. The motivations for this limitation are:
