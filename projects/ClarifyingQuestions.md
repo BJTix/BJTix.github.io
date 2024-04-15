@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: essay
 type: project
 title: "Clarifying Questions Research"
 date: 2024-04-15
