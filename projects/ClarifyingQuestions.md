@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ConsentLogo.png
+image: img/ConsentLogo.png
 title: "Clarifying Questions Research"
 date: 2024-04-15
 published: true
